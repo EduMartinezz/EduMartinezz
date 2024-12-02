@@ -1,6 +1,5 @@
 👋 **Hi, I’m Martin Oguejiofor**
-🌟 **Data Scientist | Machine Learning Enthusiast | NLP Specialist**
-
+🌟🚀 **Data Scientist | AI Enthusiast | Machine Learning Specialist | NLP Specialist | Transforming Data into Actionable Insights**
 🛠 **About Me**
 As a passionate **data scientist**, I specialize in transforming data into actionable insights. My expertise spans **data analysis, machine learning, and natural language processing (NLP)**. I thrive on building innovative, data-driven solutions to solve complex challenges across industries.
 
@@ -43,5 +42,5 @@ Tools & Techniques: NLP (Topic Modeling, Sentiment Analysis), pyLDAvis, Streamli
 🤝 Let’s Connect!
 🌐 Portfolio
 💼 https://www.linkedin.com/in/martin-chinedu-oguejiofor-40b915294
-📧 edumartinezbe@gmail.com
+📧 martinezogueji@gmail.com  
 
